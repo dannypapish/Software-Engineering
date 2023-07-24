@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Student Information</h1>
+<ul>
+    <li>Name: {{ name }}</li>
+    <li>Age: {{ age }}</li>
+</ul>
+
+<!-- Form to get the user's major, credits, and gpa -->
+<form action="/task2" method="POST">
+    <label for="major">Major:</label>
+    <input type="text" id="major" name="major">
+    <label for="credits">Credits:</label>
+    <input type="text" id="credits" name="credits">
+    <label for="gpa">GPA:</label>
+    <input type="text" id="gpa" name="gpa">
+    <input type="submit" value="Submit">
+</form>
+
+{% endblock %}

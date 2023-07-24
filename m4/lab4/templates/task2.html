@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Student Information</h1>
+<ul>
+    <li>Name: {{ name }}</li>
+    <li>Age: {{ age }}</li>
+    <li>Major: {{ major }}</li>
+    <li>Credits: {{ credits }}</li>
+    <li>GPA: {{ gpa }}</li>
+</ul>
+
+<!-- Form to get the user's target gpa -->
+<form action="/task3" method="POST">
+    <label for="target_gpa">Target GPA:</label>
+    <input type="text" id="target_gpa" name="target_gpa">
+    <input type="submit" value="Submit">
+</form>
+
+{% endblock %}

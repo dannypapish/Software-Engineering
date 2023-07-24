@@ -1,0 +1,881 @@
+{
+    "Charlotte": {
+        "Software Engineer": [
+            {
+                "title": "Software Engineer",
+                "company": "Wells Fargo",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=sonicjobs-ats-usa&empname=Wells+Fargo&v=024"
+            },
+            {
+                "title": "Software Engineer - Hybrid",
+                "company": "TEKsystems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=recruitics-tek-systems-hybrid&empname=TEKsystems&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Lowe's",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lowes&empname=Lowe%27s&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "WELLS FARGO BANK",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=joveo-wellsfargo-organic&empname=WELLS+FARGO+BANK&v=024"
+            },
+            {
+                "title": "Senior Software Engineer",
+                "company": "Motion Recruitment",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=motionrp-us&empname=Motion+Recruitment&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Randstad",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=randstad&empname=Randstad&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Strategic Staffing Solutions",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=strategic-staffing-solutions&empname=Strategic+Staffing+Solutions&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Intapp",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=intapp&empname=Intapp&v=024"
+            },
+            {
+                "title": "Staff Software Engineer",
+                "company": "501 CSAA Insurance Services, Inc.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=aaa&empname=501+CSAA+Insurance+Services%2C+Inc.&v=024"
+            },
+            {
+                "title": "Lead Software Engineer",
+                "company": "jobbot",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobbot&empname=jobbot&v=024"
+            },
+            {
+                "title": "Software Engineer Intern",
+                "company": "NAVEX",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=navex&empname=NAVEX&v=024"
+            },
+            {
+                "title": "Senior Software Engineer",
+                "company": "Anistar",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=careerarc-ats-org&empname=Anistar&v=024"
+            },
+            {
+                "title": ".NET Software Engineer - Software House - Charlotte",
+                "company": "Noir",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=broadbean-ats&empname=Noir&v=024"
+            },
+            {
+                "title": ".NET Software Engineer \u2013 Software House \u2013 Charlotte",
+                "company": "Noir Consulting",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=noir-consulting&empname=Noir+Consulting&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "MUFG Bank",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=mufg-bank-ltd&empname=MUFG+Bank&v=024"
+            },
+            {
+                "title": "Principal Software Engineer",
+                "company": "CrossCountry Mortgage",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=crosscountry-mortgage&empname=CrossCountry+Mortgage&v=024"
+            },
+            {
+                "title": "Software Engineer Prog",
+                "company": "Capgemini",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=capgemini&empname=Capgemini&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Integral Ad Science",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=integral-ad-science&empname=Integral+Ad+Science&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "AmWINS Group, Inc.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=amwins-groups-inc&empname=AmWINS+Group%2C+Inc.&v=024"
+            }
+        ],
+        "Data Scientist": [
+            {
+                "title": "Data Scientist - Hybrid",
+                "company": "TEKsystems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=recruitics-tek-systems-hybrid&empname=TEKsystems&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Deloitte",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=deloitte&empname=Deloitte&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "CyberCoders",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cybercoders&empname=CyberCoders&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "IntePros Consulting",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=intepros-consulting&empname=IntePros+Consulting&v=024"
+            },
+            {
+                "title": "Principal Data Scientist",
+                "company": "Ally",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ally&empname=Ally&v=024"
+            },
+            {
+                "title": "Lead Data Scientist",
+                "company": "Collaborative Health Systems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=trillium-community-health-plan&empname=Collaborative+Health+Systems&v=024"
+            },
+            {
+                "title": "Senior Data Scientist | Travel",
+                "company": "CNET",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cnet&empname=CNET&v=024"
+            },
+            {
+                "title": "Data Scientist Lead-Hybrid",
+                "company": "USAA",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=usaa&empname=USAA&v=024"
+            },
+            {
+                "title": "Senior Data Scientist | Travel",
+                "company": "RED VENTURES",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=red-ventures&empname=RED+VENTURES&v=024"
+            },
+            {
+                "title": "Sr. Data Scientist (REMOTE)",
+                "company": "The Hartford",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=the-hartford&empname=The+Hartford&v=024"
+            },
+            {
+                "title": "Data Scientist (Hybrid / Remote)",
+                "company": "UMB Financial Corporation",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=umb-financial-corporation&empname=UMB+Financial+Corporation&v=024"
+            },
+            {
+                "title": "Senior Core Data Scientist",
+                "company": "SCOR",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=scor&empname=SCOR&v=024"
+            },
+            {
+                "title": "Data Scientist - Stores ML",
+                "company": "Lowe's",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lowes&empname=Lowe%27s&v=024"
+            },
+            {
+                "title": "Assc. Director-Data Scientist",
+                "company": "Moody's",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=moodys&empname=Moody%27s&v=024"
+            },
+            {
+                "title": "Senior Data Scientist - Personalization",
+                "company": "Analytic Recruiting Inc.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=analytic-recruiting-inc&empname=Analytic+Recruiting+Inc.&v=024"
+            },
+            {
+                "title": "Principal Research Data Scientist",
+                "company": "Vanguard",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=vanguard&empname=Vanguard&v=024"
+            },
+            {
+                "title": "Data Scientist, Product Growth",
+                "company": "Discovery Education",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=workable-ats-org&empname=Discovery+Education&v=024"
+            },
+            {
+                "title": "Data Scientist, Spectrum Enterprise",
+                "company": "Spectrum",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=spectrum&empname=Spectrum&v=024"
+            },
+            {
+                "title": "Data Scientist, Senior Specialist (Hybrid)",
+                "company": "MSD",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=msd&empname=MSD&v=024"
+            },
+            {
+                "title": "Data Scientist, Senior Specialist (Hybrid)",
+                "company": "Merck",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=merck&empname=Merck&v=024"
+            }
+        ],
+        "Data Engineer": [
+            {
+                "title": "Data Engineer",
+                "company": "SPECTRUM",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=radancy-us-spectrum&empname=SPECTRUM&v=024"
+            },
+            {
+                "title": "Senior Data Engineer",
+                "company": "Wells Fargo",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=sonicjobs-ats-usa&empname=Wells+Fargo&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Diverse Lynx",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobdiva-org&empname=Diverse+Lynx&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "NTT",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ntt&empname=NTT&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Lorven Technologies, Inc.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lorven-technologies-inc&empname=Lorven+Technologies%2C+Inc.&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Lorven technologies",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ceipal-ats&empname=Lorven+technologies&v=024"
+            },
+            {
+                "title": "Senior Manager Data Analytics - Remote",
+                "company": "UnitedHealth Group",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=sonicjobs-ats-usa&empname=UnitedHealth+Group&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Deloitte",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=deloitte&empname=Deloitte&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Extended Stay America",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=hodes-smartpost&empname=Extended+Stay+America&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Robert Half",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=robert-half&empname=Robert+Half&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Experis",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=experis&empname=Experis&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "ettain group",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ettain-group&empname=ettain+group&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "CGI Group, Inc.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=clickcast-bayard-organic&empname=CGI+Group%2C+Inc.&v=024"
+            },
+            {
+                "title": "Data Engineer Analyst",
+                "company": "North Carolina Department of Revenue",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=north-carolina-government&empname=North+Carolina+Department+of+Revenue&v=024"
+            },
+            {
+                "title": "Data Engineer Associate",
+                "company": "Reliance Standard",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=reliance-standard&empname=Reliance+Standard&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Open Systems Technologies",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobdiva-org&empname=Open+Systems+Technologies&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Compunnel, Inc.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=compunnel&empname=Compunnel%2C+Inc.&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Mitchell Martin",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=mitchell-martin&empname=Mitchell+Martin&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Strategic Staffing Solutions",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=trackerrms-org&empname=Strategic+Staffing+Solutions&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "ClaySys",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=claysys&empname=ClaySys&v=024"
+            }
+        ]
+    },
+    "New York": {
+        "Software Engineer": [
+            {
+                "title": "Software Engineer",
+                "company": "MarketAxess",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=themuse-ppc&empname=MarketAxess&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "ParagonAlpha",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=ParagonAlpha&v=024"
+            },
+            {
+                "title": "Senior Software Engineer",
+                "company": "Capital One",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=radancy-us-capitalone&empname=Capital+One&v=024"
+            },
+            {
+                "title": "Lead Software Engineer",
+                "company": "Wells Fargo",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=sonicjobs-ats-usa&empname=Wells+Fargo&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Motion Recruitment",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=motionrp-us&empname=Motion+Recruitment&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Jane Street",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jane-street&empname=Jane+Street&v=024"
+            },
+            {
+                "title": "Staff Software Engineer",
+                "company": "Gemini",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Gemini&v=024"
+            },
+            {
+                "title": "Software Engineer - Remote",
+                "company": "Fourier Ltd",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Fourier+Ltd&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Durlston Partners",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Durlston+Partners&v=024"
+            },
+            {
+                "title": "C++ Software Engineer",
+                "company": "eFinancialCareers",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=eFinancialCareers&v=024"
+            },
+            {
+                "title": "Senior Software Engineer",
+                "company": "S&P Global",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=S%26P+Global&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Schroders",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=schroders&empname=Schroders&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Seven Seven Softwares",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=smartsearch-ats&empname=Seven+Seven+Softwares&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "NBCUniversal",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=nbcuniversal&empname=NBCUniversal&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "ITech Recruiting",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=smartsearch-ats&empname=ITech+Recruiting&v=024"
+            },
+            {
+                "title": "Fintech Systems Software Engineer",
+                "company": "Selby Jennings",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Selby+Jennings&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Scale Microgrid Solutions",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobtarget-organic&empname=Scale+Microgrid+Solutions&v=024"
+            }
+        ],
+        "Data Scientist": [
+            {
+                "title": "Senior Data Scientist",
+                "company": "Foursquare",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=swissdevjobs-global&empname=Foursquare&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Michael Page",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=recruitics-michaelpage-us&empname=Michael+Page&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Mars",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=mars&empname=Mars&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "CVS Health",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=careerarc-ats-org&empname=CVS+Health&v=024"
+            },
+            {
+                "title": "Director-Data Scientist",
+                "company": "Moody's",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=hodes-smartpost&empname=Moody%27s&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Guardian Life",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=guardian-life-insurance-company&empname=Guardian+Life&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "JPMorgan Chase & Co.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jpmorgan-chase-and-co&empname=JPMorgan+Chase+%26+Co.&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "JPMorgan Chase Bank, N.A.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=equest&empname=JPMorgan+Chase+Bank%2C+N.A.&v=024"
+            },
+            {
+                "title": "Senior Data Scientist",
+                "company": "Intelletec",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=intelletec&empname=Intelletec&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "HP",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=hp-development-company&empname=HP&v=024"
+            },
+            {
+                "title": "Risk Data Scientist",
+                "company": "Emonics",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=emonics&empname=Emonics&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Parabolic USA",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ceipal-ats&empname=Parabolic+USA&v=024"
+            },
+            {
+                "title": "Data Scientist/Senior Data Scientist",
+                "company": "Nova Credit",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=naccho&empname=Nova+Credit&v=024"
+            },
+            {
+                "title": "Junior Data Scientist",
+                "company": "Zeigler Automotive Group",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=manatal-ats&empname=Zeigler+Automotive+Group&v=024"
+            },
+            {
+                "title": "Senior Data Scientist | Product",
+                "company": "Ramp",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Ramp&v=024"
+            },
+            {
+                "title": "Associate Data Scientist",
+                "company": "Assurant",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=assurant&empname=Assurant&v=024"
+            },
+            {
+                "title": "Computer Vision Data Scientist",
+                "company": "Focus Capital Markets",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Focus+Capital+Markets&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "CyberCoders",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cybercoders&empname=CyberCoders&v=024"
+            },
+            {
+                "title": "Senior Data Scientist",
+                "company": "Informa",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=informa&empname=Informa&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Revelio Labs",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jazzhr-ats&empname=Revelio+Labs&v=024"
+            }
+        ],
+        "Data Engineer": [
+            {
+                "title": "Data Engineer",
+                "company": "Fourier Ltd",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=Fourier+Ltd&v=024"
+            },
+            {
+                "title": "Senior, Data Engineer",
+                "company": "Capital One",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=radancy-us-capitalone&empname=Capital+One&v=024"
+            },
+            {
+                "title": "Senior Data Engineer",
+                "company": "Takeda Pharmaceutical",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=radancy-us-takeda&empname=Takeda+Pharmaceutical&v=024"
+            },
+            {
+                "title": "Data Center Engineer",
+                "company": "NPAworldwide Recruitment Network",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=recruitics-npaworldwide&empname=NPAworldwide+Recruitment+Network&v=024"
+            },
+            {
+                "title": "Senior Data Engineer",
+                "company": "S&P Global",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=efinancialcareers&empname=S%26P+Global&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Cynet Systems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cynetsystems-us&empname=Cynet+Systems&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Michael Page",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=recruitics-michaelpage-us&empname=Michael+Page&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "NTT",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ntt&empname=NTT&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "MongoDB",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=mongodb&empname=MongoDB&v=024"
+            },
+            {
+                "title": "Data Center Engineer - Hybrid",
+                "company": "TEKsystems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=recruitics-tek-systems-hybrid&empname=TEKsystems&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Seven Seven Softwares",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=smartsearch-ats&empname=Seven+Seven+Softwares&v=024"
+            },
+            {
+                "title": "Junior Data Engineer",
+                "company": "Kforce",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=kforce-us-ppc&empname=Kforce&v=024"
+            },
+            {
+                "title": "Senior Data Engineer",
+                "company": "Motion Recruitment",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=motionrp-us&empname=Motion+Recruitment&v=024"
+            },
+            {
+                "title": "Senior Manager Data Analytics - Remote",
+                "company": "UnitedHealth Group",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=sonicjobs-ats-usa&empname=UnitedHealth+Group&v=024"
+            },
+            {
+                "title": "Lead Software Engineer, Data",
+                "company": "MarketAxess",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=themuse-ppc&empname=MarketAxess&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "LMI",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lmi&empname=LMI&v=024"
+            }
+        ]
+    },
+    "San Diego": {
+        "Software Engineer": [
+            {
+                "title": "Software Engineer",
+                "company": "Kforce",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=kforce-us-ppc&empname=Kforce&v=024"
+            },
+            {
+                "title": "Embedded Software Engineer",
+                "company": "Modular Medical Inc",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobtarget-ats-ppc&empname=Modular+Medical+Inc&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "ISYS Technologies.",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=isys-technologies&empname=ISYS+Technologies.&v=024"
+            },
+            {
+                "title": "Software Engineer.",
+                "company": "Lockheed Martin",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lockheed-martin&empname=Lockheed+Martin&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "AltaReturn",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=altareturn&empname=AltaReturn&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "HonorVet Technologies",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobdiva-org&empname=HonorVet+Technologies&v=024"
+            },
+            {
+                "title": "Platform Engineer/ Software Devops Engineer",
+                "company": "Motion Recruitment",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=motionrp-us&empname=Motion+Recruitment&v=024"
+            },
+            {
+                "title": "Systems Engineer (software Engineer)",
+                "company": "SpanIdea Systems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=span-idea-systems&empname=SpanIdea+Systems&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Teradata",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=teradata&empname=Teradata&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Leidos",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=leidos&empname=Leidos&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "CAES",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=caes&empname=CAES&v=024"
+            },
+            {
+                "title": "Principal Software Engineer",
+                "company": "WarnerMedia",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=warnermedia&empname=WarnerMedia&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Outschool",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=outschool&empname=Outschool&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Astreya",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=astreya&empname=Astreya&v=024"
+            },
+            {
+                "title": "Software Test Engineer",
+                "company": "BAE Systems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=careerarc-ats-org&empname=BAE+Systems&v=024"
+            },
+            {
+                "title": "Software Engineer 2",
+                "company": "Ultra",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ultra&empname=Ultra&v=024"
+            },
+            {
+                "title": "Software Engineer/ C++",
+                "company": "SPA",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=careerarc-ats-org&empname=SPA&v=024"
+            },
+            {
+                "title": "Lead Software Engineer",
+                "company": "Humana",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=humana-us&empname=Humana&v=024"
+            },
+            {
+                "title": "Senior Software Engineer",
+                "company": "SS&C Technologies",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=careerarc-ats-org&empname=SS%26C+Technologies&v=024"
+            },
+            {
+                "title": "Software Engineer",
+                "company": "Natilus",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=workable-ats-org&empname=Natilus&v=024"
+            }
+        ],
+        "Data Scientist": [
+            {
+                "title": "Data Scientist",
+                "company": "SynergisticIT",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=jobdiva-org&empname=SynergisticIT&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "IDC Technologies",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ceipal-ats&empname=IDC+Technologies&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "MuteSix",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=smartrecruiters-ats&empname=MuteSix&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "dentsuMB",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=dentsumb&empname=dentsuMB&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Virtus Investment Partners",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=virtus-investment-partners-inc&empname=Virtus+Investment+Partners&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Reesby IT",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=breezyhr-ats&empname=Reesby+IT&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "CyberCoders",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cybercoders&empname=CyberCoders&v=024"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Pinterest",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=pinterest&empname=Pinterest&v=024"
+            },
+            {
+                "title": "Data Scientist III",
+                "company": "LexisNexis Risk Solutions Group",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lexisnexis-risk-solutions-group&empname=LexisNexis+Risk+Solutions+Group&v=024"
+            },
+            {
+                "title": "Data Scientist, Mid",
+                "company": "Booz Allen Hamilton",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=boozallen&empname=Booz+Allen+Hamilton&v=024"
+            },
+            {
+                "title": "Data Scientist III",
+                "company": "RELX",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=relx&empname=RELX&v=024"
+            },
+            {
+                "title": "Data Scientist (Data Analyst 2) - 12844",
+                "company": "Huntington Ingalls Industries",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=huntington-ingalls-industries&empname=Huntington+Ingalls+Industries&v=024"
+            },
+            {
+                "title": "Lead NLP Data Scientist",
+                "company": "Humana",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=humana-us&empname=Humana&v=024"
+            },
+            {
+                "title": "Sr. Data Scientist",
+                "company": "Honda",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=honda-us&empname=Honda&v=024"
+            },
+            {
+                "title": "Senior Data Scientist",
+                "company": "Mem",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=breezyhr-ats&empname=Mem&v=024"
+            },
+            {
+                "title": "Data Scientist SME",
+                "company": "CGI",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cgi&empname=CGI&v=024"
+            },
+            {
+                "title": "Staff Data Scientist",
+                "company": "Dexcom",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=dexcom&empname=Dexcom&v=024"
+            },
+            {
+                "title": "Principal Data Scientist",
+                "company": "Applied Systems",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=applied-systems&empname=Applied+Systems&v=024"
+            },
+            {
+                "title": "Principal Data Scientist",
+                "company": "Labcorp Drug Development",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=labcorp-drug-development&empname=Labcorp+Drug+Development&v=024"
+            },
+            {
+                "title": "Healthcare Data Scientist",
+                "company": "Milliman",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=milliman&empname=Milliman&v=024"
+            }
+        ],
+        "Data Engineer": [
+            {
+                "title": "Data Engineer",
+                "company": "NTT",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=ntt&empname=NTT&v=024"
+            },
+            {
+                "title": "Senior Data Engineer",
+                "company": "Motion Recruitment",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=motionrp-us&empname=Motion+Recruitment&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Trident Consulting",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=trident-consulting&empname=Trident+Consulting&v=024"
+            },
+            {
+                "title": "Senior Data Engineer, Enterprise Data",
+                "company": "PreventionGenetics",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=preventiongenetics&empname=PreventionGenetics&v=024"
+            },
+            {
+                "title": "Data Engineer (Data Pipeline Testing",
+                "company": "Emonics",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=emonics&empname=Emonics&v=024"
+            },
+            {
+                "title": "Principal Data / Cloud Engineer",
+                "company": "Kforce",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=kforce-us-ppc&empname=Kforce&v=024"
+            },
+            {
+                "title": "Azure Data Engineer",
+                "company": "Epicor",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=careerarc-ats-org&empname=Epicor&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Wawanesa Insurance",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=wawanesa-insurance&empname=Wawanesa+Insurance&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Rockstar San Diego",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=rockstar-games&empname=Rockstar+San+Diego&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "CoStar Group",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=costar-group&empname=CoStar+Group&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Amazon",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=amazon&empname=Amazon&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Humana",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=humana-us&empname=Humana&v=024"
+            },
+            {
+                "title": "Senior Data Engineer",
+                "company": "National Resilience",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=national-resilience&empname=National+Resilience&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Zuma",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=breezyhr-ats&empname=Zuma&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Randstad",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=randstad&empname=Randstad&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "E-Solutions",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=esolutions&empname=E-Solutions&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Lynx Analytics",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=lynx-analytics&empname=Lynx+Analytics&v=024"
+            },
+            {
+                "title": "Data Engineer",
+                "company": "Q Centrix",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=q-centrix&empname=Q+Centrix&v=024"
+            },
+            {
+                "title": "AWS Data Engineer",
+                "company": "CGI",
+                "image_url": "https://cdn-dynamic.talent.com/ajax/img/get-logo.php?empcode=cgi&empname=CGI&v=024"
+            }
+        ]
+    }
+}

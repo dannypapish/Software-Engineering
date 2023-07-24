@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>Student Information</h1>
+<ul>
+    <li>Name: {{ name }}</li>
+    <li>Age: {{ age }}</li>
+    <li>Major: {{ major }}</li>
+    <li>Credits: {{ credits }}</li>
+    <li>GPA: {{ gpa }}</li>
+    <li>Target GPA: {{ target_gpa }}</li>
+</ul>
+
+<h4>Number of Credits Needed to Reach Target GPA of {{ target_gpa }}: {{ credits_needed }}</h4>
+{% endblock %}

@@ -1,0 +1,17 @@
+/* TODO 5: Add some styling to make the page look nicer */
+img {
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    padding-left:1%;
+}
+
+h1 {
+    color: #333;
+    padding-left:1%;
+  }
+  
+* {
+    margin-left:1%;
+    font-family: Assistant, sans-serif;
+}
