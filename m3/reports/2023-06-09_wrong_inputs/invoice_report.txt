@@ -1,0 +1,9 @@
+Test report for invoice tests.
+Error in test_invoice_add_item_appends_item: Incorrect item
+  - Expected: <invoice.Item object at 0x00000204EFC95120>
+  - Actual: <invoice.Item object at 0x00000204EFC95180>
+Error in test_invoice_add_item_checks_discounted: Incorrect discount percent
+  - Expected: 1.2
+  - Actual: 0.2
+invoice tests complete.
+4 out of 6 tests passed.

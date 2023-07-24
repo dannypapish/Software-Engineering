@@ -1,0 +1,5 @@
+Test report for item tests.
+Error, calculate_item_total_price has not been implemented yet
+Error, calculate_item_total_price has not been implemented yet
+item tests complete.
+5 out of 7 tests passed.

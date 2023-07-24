@@ -1,0 +1,6 @@
+Test report for invoice tests.
+Error in test_invoice_add_item_appends_item: Incorrect item
+  - Expected: None
+  - Actual: None
+invoice tests complete.
+5 out of 6 tests passed.

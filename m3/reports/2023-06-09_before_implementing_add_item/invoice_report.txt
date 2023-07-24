@@ -1,0 +1,5 @@
+Test report for invoice tests.
+Error, the add_item method isn't implemented properly
+Error, the add_item method isn't implemented properly
+invoice tests complete.
+4 out of 6 tests passed.
