@@ -9,6 +9,10 @@ This is a collection of modules containing lab exercises for a "Software Enginee
 
 **M5 & M6** - Exercices that are mainly focused on scraping data from the web. Running these apps requires a few dependencies and installing third-party apps such as "selenium", "postman", "docker" and "chromedriver". If you wish to run it, both modules have a "README.md" files with detailed instructions.  
 
-*M6 includes few additional HTML/JavaScript/CSS apps - "prototype" - an app where an image can be manipulated by pressing different keyboard keys. It demonstrates how we can implement JavaScript to dynamically change the image's contrast, focus, zoom, color and more. To access it, navigate to the "prototype" folder and click on "index.html". "factory" where I demonstrate how data can be nicely organized in a table using JavaScript and CSS. To access it navigate to factory/index.html. The last app is "builder" which demonstrates a way to create a profile page using mainly JavaScript functions and a HTML page as a template. To access it navigate to builder/index.html.  
+*M6 includes few additional HTML/JavaScript/CSS apps:  
+
+- "prototype" - an app where an image can be manipulated by pressing different keyboard keys. It demonstrates how we can implement JavaScript to dynamically change the image's contrast, focus, zoom, color and more. To access it, navigate to the "prototype" folder and click on "index.html".
+- "factory" where I demonstrate how data can be nicely organized in a table using JavaScript and CSS. To access it navigate to factory/index.html.
+-  "builder" which demonstrates a way to create a profile page using mainly JavaScript functions and a HTML page as a template. To access it navigate to builder/index.html.  
 
 *All modules and subfolders have a seperate README.md files which include more detailed instructions and descriptions. In addition, the code includes detailed annotation.
