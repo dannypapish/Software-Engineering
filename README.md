@@ -5,7 +5,7 @@ This is a collection of modules containing lab exercises for a "Software Enginee
 
 **M3** - Demonstrates code testing by printing testing reports for a prototype of an app that is generating business invoices. to run the program: in terminal navigate to the folder and run "python tests.py", "invoiceTests.py", "itemTests.py". (or python3, depending on your python version). The output will be text files with information about passed/failed tests, that will be generated under the "reports" folder.  
 
- **M4** - a simple app of creating a server and passing information using 'flask'. to run the app: in terminal, navigate to the main folder and first run `pip install -r requirements.txt` to install 'flask 2.2.0' on your local machine. then navigate to "lab4" and run "python app.py" (or python3, depending on your python version). In addition, it includes a css exercise of bouncing shape. to access it, navigate to the "bounce" folder and click "index.html."  
+ **M4** - a simple app of creating a local server and passing information using 'flask'. to run the app: in terminal, navigate to the main folder and first run `pip install -r requirements.txt` to install 'flask 2.2.0' on your local machine. then navigate to "lab4" and run "python app.py" (or python3, depending on your python version). In addition, it includes a css exercise of bouncing shape. to access it, navigate to the "bounce" folder and click "index.html."  
 
 **M5 & M6** - Exercices that are mainly focused on scraping data from the web. Running these apps requires a few dependencies and installing third-party apps such as "selenium", "postman", "docker" and "chromedriver". If you wish to run it, both modules have a "README.md" files with detailed instructions.  
 
